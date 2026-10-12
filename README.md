@@ -6,10 +6,9 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![invobook](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![invobook](images/preview.png)](https://github.com/Swift-Tech-Co/invobook)
 
 ## Hire me
-
 
 ## About Invobook
 
@@ -31,7 +30,6 @@ Invobook is a self-hosted app to manage team/clients, project & tasks, time trac
 </p>
 
 <hr>
-
 
 ## Installation
 
@@ -65,16 +63,13 @@ To contribute telegram [link](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ### Professional Support
 
-
 ## Security Vulnerabilities <small>[↑Top](#about-invobook)</small>
-
 
 ## Credits <small>[↑Top](#about-invobook)</small>
 
-- Author: Nehal Hasnayeen (https://www.swifttechco.com)
+- Author: Nehal Hasnayeen (https://github.com/Swift-Tech-Co/invobook)
 
 - Full Contributors List
-
 
 ## License <small>[↑Top](#about-invobook)</small>
 
@@ -94,13 +89,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/invobook
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
