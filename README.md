@@ -1,22 +1,12 @@
-# InvoBook
+# invobook
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the invobook notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![invobook](https://opengraph.githubassets.com/1/Hasnayeen/invobook)](https://www.swifttechco.com)
-
-
-Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
-
-<hr>
-
-
-<p align="center">
-    <a href="https://www.swifttechco.com"></a>
-    <a href="https://www.swifttechco.com"></a>
-    <a href="https://www.swifttechco.com"></a>
-    <a href="https://www.swifttechco.com"></a>
-    <a href="https://www.swifttechco.com"></a>
-</p>
+[![invobook](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Hire me
 
@@ -81,14 +71,14 @@ To contribute telegram [link](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Credits <small>[↑Top](#about-invobook)</small>
 
-- Author: [Nehal Hasnayeen](https://www.swifttechco.com) (https://www.swifttechco.com)
+- Author: Nehal Hasnayeen (https://www.swifttechco.com)
 
-- [Full Contributors List](https://www.swifttechco.com)
+- Full Contributors List
 
 
 ## License <small>[↑Top](#about-invobook)</small>
 
-Invobook is open-sourced software licensed under the [MIT license](https://www.swifttechco.com).
+Invobook is open-sourced software licensed under the MIT license.
 
 ---
 
@@ -100,14 +90,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
